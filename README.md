@@ -1,2 +1,2 @@
-# liz1808autentifica41LAMC
-Ejercicio Autentificación de Firabase
+# rickfbauth
+Ejemplo de autenticación con Firebase y Google.
